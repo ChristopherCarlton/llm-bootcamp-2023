@@ -1,0 +1,11 @@
+{
+  "account"      : "KEB85413" ,   
+  "user"         : "USER0007" , 
+  "password"     : "haydesgataS1." , 
+  "role"         : "ROLE_USER0007" , 
+  "warehouse"    : "WH_XS_USER0007" , 
+  "database"     : "DB_USER0007" , 
+  "schema"       : "SCHEMA_LLM" , 
+  "compute_pool" : "COMPUTE_POOL_USER0007" , 
+  "huggingface_token"   : "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"
+}
